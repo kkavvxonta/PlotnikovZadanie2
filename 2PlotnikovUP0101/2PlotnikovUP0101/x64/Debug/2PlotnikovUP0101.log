@@ -1,0 +1,21 @@
+﻿  Archive.cpp
+C:\Users\PC40\Desktop\Новая папка (2)\Archive.cpp(251,25): warning C4566: символ, представленный универсальным именем символа "\u251C", невозможно представить в текущей кодовой странице (1251)
+C:\Users\PC40\Desktop\Новая папка (2)\Archive.cpp(251,25): warning C4566: символ, представленный универсальным именем символа "\u2500", невозможно представить в текущей кодовой странице (1251)
+  Date.cpp
+C:\Users\PC40\Desktop\Новая папка (2)\Date.cpp(1,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+      C:\Users\PC40\Desktop\Новая папка (2)\Date.cpp(1,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  Directory.cpp
+  Exceptions.cpp
+  File.cpp
+  Logger.cpp
+C:\Users\PC40\Desktop\Новая папка (2)\Logger.cpp(1,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+      C:\Users\PC40\Desktop\Новая папка (2)\Logger.cpp(1,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  Resource.cpp
+  SortComparator.cpp
+  main.cpp
+  Создание кода...
+  2PlotnikovUP0101.vcxproj -> C:\Users\PC40\Desktop\2PlotnikovUP0101\x64\Debug\2PlotnikovUP0101.exe
